@@ -37,8 +37,8 @@ function App() {
 <a id='a1'href="https://iitbhu.ac.in/dean/dosa/games">About</a>
 <div id='a9'>
   
-      <EventFilter onFilter={setFilteredEvents} />
-      <EventList events={filteredEvents} />
+  <EventFilter onFilter={setFilteredEvents} />
+  <EventList events={filteredEvents} />
 </div>
 <a id='a3' href="">Teams </a>
 <a id='a4' href="">Pre-Events</a>
@@ -67,6 +67,8 @@ function App() {
   <h2 className='h2'>18-20 oct 2024</h2>
 </div>
 
+
+
 <footer id='footer'>
   <div id='footer1'>
      <div id='footer2'>
@@ -77,6 +79,7 @@ function App() {
             <li className='li1'><a href="">Coches and Staff</a></li>
           </ul>
       </div>
+  
     </div>
 </footer>
      
