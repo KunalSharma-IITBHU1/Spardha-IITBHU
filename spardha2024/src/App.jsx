@@ -28,6 +28,7 @@ function App() {
   <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A13326821&keywords=spardha%2C%20iit%20(bhu)%20varanasi&origin=RICH_QUERY_SUGGESTION">
   <img id='img5' src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="" />
   </a>
+ 
   </section>
 </nav>
 
@@ -67,6 +68,10 @@ function App() {
   <h2 className='h2'>18-20 oct 2024</h2>
 </div>
 
+<div id="a12">
+
+</div>
+
 
 
 <footer id='footer'>
@@ -78,11 +83,39 @@ function App() {
             <li className='li1'><a href="">Sports and Technology</a></li>
             <li className='li1'><a href="">Coches and Staff</a></li>
           </ul>
+          <div>
+          <a href="https://amul.com/products/milk.php">
+            <img id='img7' src="/public/amul.png" alt="" />
+          </a>
+          <a href="">
+            <img id='img8' src="\public\iitianTrader.png" alt="" />
+          </a>
+          <a href="">
+            <img id='img9' src="\public\ballebaazi_logo.png" alt="" />
+          </a>
+          <a href="https://ipsator.com/">
+            <img id='img10' src="\public\ipsator.png" alt="" />
+          </a>
+         <a href="https://www.ktm.com/en-in.html">
+          <img id='img11' src="\public\KTM_Logo.png" alt="" />
+          <a href="">
+            <img id='img12' src="\public\rankers.png" alt="" />
+          </a>
+          <a href="https://www.toyotabharat.com/">
+            <img id='img13' src="\public\toyota.png" alt="" />
+          </a>
+          <a href="">
+            <img id='img14' src="\public\DGPcafe.png" alt="" />
+          </a>
+         </a>
+          </div>
+          
       </div>
   
     </div>
-</footer>
+            
      
+</footer>
 </div>
  ) 
 };
