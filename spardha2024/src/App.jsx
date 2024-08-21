@@ -66,6 +66,7 @@ function App() {
 <div id='a11'> 
   <h1 className='h2'> Welcome to Spardha 2024</h1>
   <h2 className='h2'>18-20 oct 2024</h2>
+  <h3 className='h2'>Annual sports festival of IIT (BHU) under the Games and Sports Council.</h3>
 </div>
 
 <div id="a12">
