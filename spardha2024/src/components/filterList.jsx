@@ -19,20 +19,25 @@ function EventFilter({ onFilter }) {
 
       <select  onChange={e => setSport(e.target.value)} value={sport}>
         <option   value="">Select Sport</option>
-        <option value="athletics">athletics</option>
-        <option value="badminton">badminton</option>
+        <option value="athletics">Athletics</option>
+        <option value="badminton">Badminton</option>
         <option value="Basketball">Basketball</option>
-        <option value="boxing">boxing</option>
-        <option value="carrom">carrom</option>
-        <option value="chess">chess</option>
+        <option value="boxing">Boxing</option>
+        <option value="cycling">Cycling</option>
+        <option value="chess">Chess</option>
         <option value="Cricket">Cricket</option>
         <option value="Football">Football</option>
-        <option value="Gymnastics">Gymnastics</option>
         <option value="handball">handball</option>
         <option value="Hockey">Hockey</option>
         <option value="Kabaddi">Kabaddi</option>
+        <option value="khokho">KhoKho</option>
+        <option value="Pawerlifting">Pawerlifting</option>
+        <option value="Squash">Squash</option>
         <option value=" table tennis"> table tennis</option>
         <option value="Taekwondo">Taekwondo</option>
+        <option value="Tennis">Tennis</option>
+        <option value="Volleyball">Volleyball</option>
+        <option value="Weightlifting">Weightlifting</option>
       </select>
       {/* <input type="date" onChange={e => setDate(e.target.value)} value={date} /> */}
       <button onClick={handleFilter}>Filter</button>

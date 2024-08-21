@@ -50,8 +50,8 @@ function App() {
 
 <div id='div2' >
   <section>
-<a href="https://iitbhu.ac.in/">
-  <img id='img2' src="https://www.iitbhu.ac.in/contents/iitbhu/img/other/iit_emblem_original.jpg" alt="" />
+<a href="https://https://iitbhulife.wordpress.com/iit-bhu-gymkhana/.ac.in/">
+  <img id='img2' src="/src/Gymkhana.png" alt="" />
 </a>
 
   </section>
